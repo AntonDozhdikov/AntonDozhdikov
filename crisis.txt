@@ -1,0 +1,132 @@
+[
+  {
+    "scenario_id": 1,
+    "scenario_name": "COVID-19 Pandemic",
+    "start_year": 2020,
+    "end_year": 2022,
+    "description": "Global pandemic with lockdowns, increased mortality, reduced mobility",
+    "demographic_impacts": {
+      "birth_rate_change": -0.15,
+      "death_rate_change": 0.25,
+      "migration_change": -0.6,
+      "economic_impact": -0.2
+    }
+  },
+  {
+    "scenario_id": 2,
+    "scenario_name": "Geopolitical Instability",
+    "start_year": 2022,
+    "end_year": 2024,
+    "description": "Military conflict, sanctions, mobilization, brain drain",
+    "demographic_impacts": {
+      "birth_rate_change": -0.2,
+      "death_rate_change": 0.15,
+      "migration_change": -0.8,
+      "economic_impact": -0.3
+    }
+  },
+  {
+    "scenario_id": 3,
+    "scenario_name": "Ecological Catastrophe",
+    "start_year": 2023,
+    "end_year": 2025,
+    "description": "Major environmental disaster (nuclear accident, oil spill, wildfire)",
+    "demographic_impacts": {
+      "birth_rate_change": -0.3,
+      "death_rate_change": 0.4,
+      "migration_change": -0.9,
+      "economic_impact": -0.5
+    }
+  },
+  {
+    "scenario_id": 4,
+    "scenario_name": "Economic Crisis",
+    "start_year": 2021,
+    "end_year": 2023,
+    "description": "Severe economic recession, hyperinflation, unemployment",
+    "demographic_impacts": {
+      "birth_rate_change": -0.25,
+      "death_rate_change": 0.1,
+      "migration_change": -0.4,
+      "economic_impact": -0.4
+    }
+  },
+  {
+    "scenario_id": 5,
+    "scenario_name": "Climate Change Extreme",
+    "start_year": 2022,
+    "end_year": 2027,
+    "description": "Extreme weather events, droughts, floods, permafrost melting",
+    "demographic_impacts": {
+      "birth_rate_change": -0.1,
+      "death_rate_change": 0.2,
+      "migration_change": -0.5,
+      "economic_impact": -0.25
+    }
+  },
+  {
+    "scenario_id": 6,
+    "scenario_name": "Technological Disruption",
+    "start_year": 2020,
+    "end_year": 2025,
+    "description": "Mass automation, AI replacement of jobs, social unrest",
+    "demographic_impacts": {
+      "birth_rate_change": -0.12,
+      "death_rate_change": 0.05,
+      "migration_change": -0.3,
+      "economic_impact": -0.35
+    }
+  },
+  {
+    "scenario_id": 7,
+    "scenario_name": "Energy Crisis",
+    "start_year": 2021,
+    "end_year": 2024,
+    "description": "Energy shortages, infrastructure collapse, winter heating crisis",
+    "demographic_impacts": {
+      "birth_rate_change": -0.18,
+      "death_rate_change": 0.3,
+      "migration_change": -0.7,
+      "economic_impact": -0.45
+    }
+  },
+  {
+    "scenario_id": 8,
+    "scenario_name": "Social Upheaval",
+    "start_year": 2019,
+    "end_year": 2022,
+    "description": "Political instability, protests, civil unrest, institutional breakdown",
+    "demographic_impacts": {
+      "birth_rate_change": -0.22,
+      "death_rate_change": 0.12,
+      "migration_change": -0.6,
+      "economic_impact": -0.28
+    }
+  },
+  {
+    "scenario_id": 9,
+    "scenario_name": "Infrastructure Collapse",
+    "start_year": 2023,
+    "end_year": 2025,
+    "description": "Critical infrastructure failure: transport, healthcare, utilities",
+    "demographic_impacts": {
+      "birth_rate_change": -0.35,
+      "death_rate_change": 0.5,
+      "migration_change": -0.8,
+      "economic_impact": -0.6
+    }
+  },
+  {
+    "scenario_id": 10,
+    "scenario_name": "Food Security Crisis",
+    "start_year": 2024,
+    "end_year": 2026,
+    "description": "Agricultural failure, food shortages, malnutrition, supply chain breakdown",
+    "demographic_impacts": {
+      "birth_rate_change": -0.28,
+      "death_rate_change": 0.35,
+      "migration_change": -0.75,
+      "economic_impact": -0.4
+    }
+  }
+]
